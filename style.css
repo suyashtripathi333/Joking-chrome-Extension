@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    width: 300px;
+    height: 300px;
+    background-color:#4793AF;
+    display: flex;
+    justify-content:center;
+
+}
+
+p{
+    display: inner-flex;
+    margin: auto 10px;
+    font: 45px;
+    color:#FFC470;
+    border: 1px solid #DD5746;
+    padding: 10px;
+    
+
+}
