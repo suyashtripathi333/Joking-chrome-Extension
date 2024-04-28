@@ -1,2 +1,2 @@
 # Joking-chrome-Extension
-This my first web chrome web extension 
+This is my first web chrome web extension 
